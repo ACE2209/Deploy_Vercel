@@ -6,7 +6,6 @@ export default function Home() {
       <p>Project deploy từ git sang vercel để build</p>
       <footer className="flex gap-[24px] flex-wrap items-center justify-center">
         <Image
-          aria-hidden
           src="/nezuko.png"
           alt="Globe icon"
           width={800}
